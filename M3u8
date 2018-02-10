@@ -1,0 +1,102 @@
+#EXTM3U
+#EXTINF:-1,CANAL TNT
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+
+#EXTINF:-1,TNT
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+
+#EXTINF:-1,LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1,PANICO
+https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
+
+#EXTINF:-1,TVC
+https://latamonly-lh.akamaihd.net/i/tvchd_1@578063/master.m3u8
+
+#EXTINF:-1,CINE PLATINO
+https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
+
+#EXTINF:-1,CINE MEXICANO
+https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
+
+#EXTINF:-1,MIS PELICULAS
+https://latamonly-lh.akamaihd.net/i/mispeliculas_1@321856/master.m3u8
+
+#EXTINF:-1,PASIONES HD
+https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/master.m3u8
+
+#EXTINF:-1,MULTIPREMIER
+https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
+
+#EXTINF:-1,MULTICINEMA HD
+https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
+
+#EXTINF:-1,NU MUSIC
+https://latamonly-lh.akamaihd.net/i/numusic_1@576703/master.m3u8
+
+#EXTINF:-1,Tele Musica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+
+#EXTINF:-1,CREMECARTOON 24/7
+https://clutch.vaughnsoft.net/ord/vl/cremecartoon.m3u8
+
+#EXTINF:-1,MEGA KIDS 24/7
+https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
+
+#EXTINF:-1,Peliculas Icreme_Dreams
+https://clutch.vaughnsoft.net/ord/vl/lcreme_dreams.m3u8
+
+#EXTINF:-1,CINE CALIDAD 24/7
+https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
+
+#EXTINF:-1,CINE STAR 24/7
+https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
+
+#EXTINF:-1,PELICULAS CLASSICAS 24/7
+https://clutch.vaughnsoft.net/ord/vl/lcreme_classichd.m3u8
+
+#EXTINF:-1,KATY HD 24/7
+https://clutch.vaughnsoft.net/ord/vl/katyhd.m3u8
+
+#EXTINF:-1,PELICULAS ICREME 24/7
+https://clutch.vaughnsoft.net/ord/vl/lcremeplushd.m3u8
+
+#EXTINF:-1,MEGAPELICULAS HD 24/7
+https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8
+
+#EXTINF:-1,PELICULAS VITATO 24/7
+https://clutch.vaughnsoft.net/ord/vl/vitatotv.m3u8
+
+#EXTINF:-1,beto7 24/7
+https://clutch.vaughnsoft.net/ord/vl/beto_7.m3u8
+
+#EXTINF:-1,Zona Films Terror 24/7
+https://clutch.vaughnsoft.net/ord/vl/zonafilmsterror.m3u8
+
+#EXTINF:-1, Cinemex HD 24/7
+https://clutch.vaughnsoft.net/ord/vl/cinemexhd.m3u8
+
+#EXTINF:-1,lcreme_horror 24/7
+https://clutch.vaughnsoft.net/ord/vl/lcreme_horror.m3u8
+
+#EXTINF:-1,Hits tv
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1,Travel HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+
+#EXTINF:-1,Aprende TV
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+
+#EXTINF:-1,CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1,Azteca Cinema
+https://latamonly-lh.akamaihd.net/i/azcinema_1@571259/index_1080_av-p.m3u8
+
+#EXTINF:-1,Azteca Mundo
+https://latamonly-lh.akamaihd.net/i/azmundo_1@571254/index_1080_av-p.m3u8
